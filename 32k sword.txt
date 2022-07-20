@@ -1,0 +1,1 @@
+{WasPickedUp:0b,tag:{RepairCost:0,display:{Mame:"no cheat lol"},Damage:0,ench:[{id:9s,1v1:32767s}]},Count:1b,Damage:0s,Name:"Minecraft:diamond_sword"}
